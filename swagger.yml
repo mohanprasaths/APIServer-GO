@@ -6,7 +6,7 @@ schemes:
 - http
 swagger: "2.0"
 info:
-  description: From the todo list tutorial - goswagger.io
+  description: From the todo list tutorial --   goswagger.io
   title: A Todo list application
   version: 1.0.0
 paths:
